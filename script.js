@@ -40,8 +40,8 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Full-stack developer",
-        "Pre-Final Year Student"
+        "Full-stack Web developer",
+        "Machine Learning Developer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -50,8 +50,8 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Full-stack developer",
-        "Student"
+        "Full-stack Web developer",
+        "Machine Learning Developer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -81,4 +81,5 @@ $(document).ready(function () {
         }
       }
     });
+
   });
